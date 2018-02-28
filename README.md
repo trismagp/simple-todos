@@ -8,5 +8,5 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > git clone https://github.com/trismagp/simple-todos.git
 > cd simple-todos
 > npm install
-> npm start
+> meteor
 ```
